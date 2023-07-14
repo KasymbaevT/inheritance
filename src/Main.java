@@ -7,11 +7,6 @@ public class Main {
         System.out.println(animal1);
         animal1.method();
 
-        Cow cow = new Cow("Mu Mu",100,"Ala","Murka",800000);
-        System.out.println(cow);
-        cow.method();
-        cow.met();
-
 
 
 
