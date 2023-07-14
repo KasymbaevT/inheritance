@@ -6,6 +6,11 @@ public class Main {
         Animal animal1 = new Animal("Mur",6,"black");
         System.out.println(animal1);
         animal1.method();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
+
 
 
 
